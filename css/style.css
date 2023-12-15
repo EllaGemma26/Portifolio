@@ -22,26 +22,38 @@
 .icon{
      margin-left: 40px;
      padding-bottom: 10px;
+     font-size: 1rem;
      }
      .fa-twitter{
           color: white;
+          font-size: 24px;
      }
      .fa-facebook{
           color: white;
+          font-size: 24px;
      }
      .fa-whatsapp{
           color: white;
+          font-size: 24px;
      }
      
      #twitter1{
           color: black;
+          font-size: 24px;
      }
      #facebook1{
           color: black;
+          font-size: 24px;
      }
      #whatsapp1{
           color: black;
+          font-size: 24px;
      }
+     .me{
+          font-size: 24px;
+     }
+
+     
  /* GENERAL */
 
      span{
